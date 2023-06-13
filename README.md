@@ -3,7 +3,7 @@
 <h3 align="center">A Data Science Aspirant from India</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif">
 
-<p align="left"> <a href=""/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/vikash-tiwari-6bb7b1177"/></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
