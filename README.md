@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/vikash-tiwari-6bb7b1177"/></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science And Devopes**
 
-- 💬 Ask me about **Statistics and Data Science**
+- 💬 Ask me about **ODOO ERP And Data Science**
 
-- 📫 How to reach me **vt6jun@gmail.com**
+- 📫 How to reach me **vt6jun@gmail.com +91-7905711380**
+
+ <h1>Odoo Customization Migration/Integration Implementation</h1> 
 
 ![Octocats Collaborating](https://octodex.github.com/images/collabocats.jpg)
