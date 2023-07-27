@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **vt6jun@gmail.com +91-7905711380**
 
- <h1>Odoo Customization Migration/Integration Implementation</h1> 
+ <h1>Odoo Customization</h1> 
+ <h2>Odoo Migration/Integration</h2>
+ <h3>Odoo Implementation</h2>
 
 ![Octocats Collaborating](https://octodex.github.com/images/collabocats.jpg)
